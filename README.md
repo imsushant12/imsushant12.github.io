@@ -1,5 +1,7 @@
 # Sushant Gaurav
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/imsushant12/imsushant12.github.io?branch=main)](https://bettercodehub.com/)
+
 ## Who am I?
 
 I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from Lakshmi Narain College of Technology Excellence. I'm a Pragmatic Programmer who loves coding in C++ and Python along with other General-Purpose Languages like C and Java. I'm passionate about Full Stack Development and Machine Learning with an active interest in technical content writing and blogging on websites like Hashnode and Medium.
