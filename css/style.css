@@ -170,7 +170,7 @@ section {
 }
 
 .home .image {
-  flex: 1 1 40rem;
+  flex: 1 1 17.5rem;
   padding: 1rem;
   text-align: center;
 }
@@ -278,7 +278,7 @@ section {
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(4) .bar span {
-  width: 75%;
+  width: 85%;
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(5) .bar span {
@@ -287,6 +287,10 @@ section {
 
 .about .row .box:nth-child(1) .progress:nth-child(6) .bar span {
     width: 75%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(7) .bar span {
+  width: 75%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(2) .bar span {
@@ -306,7 +310,11 @@ section {
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(6) .bar span {
-    width: 60%;
+    width: 75%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(7) .bar span {
+  width: 60%;
 }
 
 .about .row .box .exp-box {
